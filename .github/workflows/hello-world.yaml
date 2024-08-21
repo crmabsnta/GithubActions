@@ -9,7 +9,7 @@ on:
         - main 
   workflow_dispatch:
 
-  jobs:
+  job:
     hello:
       runs-on:ubuntu-latest
     steps:
