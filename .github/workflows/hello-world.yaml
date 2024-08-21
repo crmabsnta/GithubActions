@@ -23,5 +23,5 @@ on:
       steps:
         - name: goodbye world
           run: echo "Goodbye world"
-          shel: bash
+          shell: bash
           
